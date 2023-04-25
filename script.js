@@ -1,6 +1,6 @@
 let numbers = document.querySelectorAll("input")
 let button = document.querySelector("button")
-let ans = document.getElementById("sum")
+let ans = document.getElementById("Sum")
 
 function add(){
 	let sum = 0
